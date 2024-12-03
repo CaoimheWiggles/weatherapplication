@@ -21,7 +21,7 @@ This project is a full-stack weather application that provides user authenticati
 1. Clone the repository:
 
    ```sh
-   https://github.com/CaoimheWiggles/weather-application
+   https://github.com/CaoimheWiggles/weatherapplication
    cd Weather/server
    ```
 
