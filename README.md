@@ -144,4 +144,4 @@ or
 
 ## App
 
-https://weather-app-ie.netlify.app/dashboard
+https://weather-app-ie.netlify.app
