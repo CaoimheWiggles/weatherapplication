@@ -136,9 +136,12 @@ To run the tests, use the following command:
 python manage.py test
 
 
-https://weather-app-ie.netlify.app/dashboard
-
 or
 
 ./install_and_run.sh
 ```
+
+
+## App
+
+https://weather-app-ie.netlify.app/dashboard
